@@ -1,0 +1,4 @@
+# 忽略所有 .usdz 和 .scn 文件
+*.usdz
+*.scn
+
